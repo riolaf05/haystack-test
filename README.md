@@ -27,3 +27,7 @@ Haystack provides following componets (2.0) :
 * Validators
 * WebSearch
 * Writers
+
+# References 
+
+* [Haystack docs](https://haystack.deepset.ai/)
