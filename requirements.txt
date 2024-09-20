@@ -1,0 +1,4 @@
+haystack-ai
+trafilatura 
+lxml_html_clean
+python-dotenv
